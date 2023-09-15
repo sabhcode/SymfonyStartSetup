@@ -1,28 +1,29 @@
 # SymfonyStartSetup by @sabhcode
 
-Hey there, 👋
-
-Want to get started with Symfony? 🚀
+ Hey there, want to get started with Symfony? 🚀👋
 
 📢 Here's a simple tutorial:
 
-# 1️⃣  Open your code editor 💻
+# 1️⃣ Install PHP
+Before we begin, make sure you have PHP installed. You can download and install PHP from PHP's official website.
 
-→ VS Code, IntelliJ, ect..
+# 2️⃣ Install Composer
+Once PHP is installed, you'll need Composer, a PHP package manager. You can download and install Composer from Composer's official website.
 
-# 2️⃣  Clone the repository with the following command:
+# 3️⃣ Install Scoop
+If you're using Windows and want to simplify various development tool installations, you can use Scoop as a package manager. Download and install Scoop from Scoop's official website.
 
+# 4️⃣ Open your code editor 💻
+→ VS Code, IntelliJ, etc.
+
+# 5️⃣ Clone the repository with :
 → git clone https://github.com/sabhcode/SymfonyStartSetup.git
 
-# 3️⃣  Install Symfony dependencies with the following command:
-
+# 6️⃣ Install Symfony dependencies with :
 → composer install
 
-# 4️⃣  Check Symfony requirements with the following command:
-
+# 7️⃣ Check Symfony requirements with :
 → symfony check:requirements
 
-
-
-
-
+ # #️⃣ You're all set! 🎉
+You've successfully set up Symfony for your development environment. Happy coding!
