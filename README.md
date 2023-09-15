@@ -5,15 +5,15 @@
 📢 Here's a simple tutorial:
 
 # 1️⃣ Install PHP
-Before we begin, make sure you have PHP installed. You can download and install PHP from PHP's official website.
+Before we begin, make sure you have PHP installed. You can download and install PHP from https://www.php.net/downloads.php.
 
 # 2️⃣ Install Composer
-Once PHP is installed, you'll need Composer, a PHP package manager. You can download and install Composer from Composer's official website.
+Once PHP is installed, you'll need Composer, a PHP package manager. You can download and install Composer from [Composer's official website](https://getcomposer.org/download/).
 
 # 3️⃣ Install Scoop
-If you're using Windows and want to simplify various development tool installations, you can use Scoop as a package manager. Download and install Scoop from Scoop's official website.
+If you're using Windows and want to simplify various development tool installations, you can use Scoop as a package manager. Download and install Scoop from https://scoop.sh/.
 
-# 4️⃣ Open your code editor 💻
+# 4️⃣ Open your code editor 
 → VS Code, IntelliJ, etc.
 
 # 5️⃣ Clone the repository with :
