@@ -1,4 +1,4 @@
-# SymfonyStartSetup by @sabhcode
+# by @sabhcode
 
  Hey there, want to get started with Symfony? 🚀👋
 
