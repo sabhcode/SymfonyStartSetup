@@ -1,8 +1,7 @@
-# by @sabhcode
+# SymfonyStartSetup
+Hey there, want to get started with Symfony? 🚀👋
 
- Hey there, want to get started with Symfony? 🚀👋
-
-📢 Here's a simple tutorial:
+# 📢 Here's a simple tutorial:
 
 # 1️⃣ Install PHP
 Before we begin, make sure you have PHP installed. You can download and install PHP from https://www.php.net/downloads.php.
