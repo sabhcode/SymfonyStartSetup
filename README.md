@@ -22,9 +22,8 @@
 
 ## 📒 Table of Contents
 - [📒 Table of Contents](#-table-of-contents)
-
+- [🧩 Modules](#-modules)
 - [🚀 Getting Started](#-getting-started)
-
 - [🤝 Contributing](#-contributing)
 
 
