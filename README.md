@@ -27,7 +27,6 @@
 
 - [🤝 Contributing](#-contributing)
 
-- [👏 Acknowledgments](#-acknowledgments)
 
 ---
 
@@ -169,8 +168,3 @@ The project maintainers will review your changes and provide feedback or merge t
 
 
 
-## 👏 Acknowledgments
-
-> - `ℹ️  List any resources, contributors, inspiration, etc.`
-
----
