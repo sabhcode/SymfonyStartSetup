@@ -108,9 +108,9 @@
 ### ✔️ Prerequisites
 
 Before you begin, ensure that you have the following prerequisites installed:
-> - `ℹ️ Requirement 1`
-> - `ℹ️ Requirement 2`
-> - `ℹ️ ...`
+> - `ℹ️ PHP`
+> - `ℹ️ Scoop`
+> - `ℹ️ Composer`
 
 ### 📦 Installation
 
