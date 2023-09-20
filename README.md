@@ -22,8 +22,7 @@
 
 ## 📒 Table of Contents
 - [📒 Table of Contents](#-table-of-contents)
-- [📂 Project Structure](#project-structure)
-- [🧩 Modules](#modules)
+
 - [🚀 Getting Started](#-getting-started)
 
 - [🤝 Contributing](#-contributing)
@@ -33,14 +32,6 @@
 ---
 
 
-
-
-## 📂 Project Structure
-
-
-
-
----
 
 ## 🧩 Modules
 
